@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "272578851998",
+    "firebase_url": "https://reimarapp.firebaseio.com",
+    "project_id": "reimarapp",
+    "storage_bucket": "reimarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272578851998:android:5a76e4e3567dd4f9",
+        "android_client_info": {
+          "package_name": "cursoandroid.com.reimarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272578851998-volsum1k626mkbr9n2p2jqipjnq10tpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHnGkIeOuktNu6W6VoHJQ4XZvTQiTZ5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

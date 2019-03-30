@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reimar App</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_solicitacao_visita">Solicitação de visita</string>
+    <string name="btn_orcamentos_pendentes">Orçamentos pendentes</string>
+    <string name="btn_orcamentos_concluidos">Orçamentos concluídos</string>
+    <string name="btn_ordens_abertas">Ordens abertas</string>
+    <string name="btn_em_analise">Em análise</string>
+    <string name="btn_orcamentos_recusados">Orçamentos recusados</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_cadastrar_funcionario">Cadastrar funcionário</string>
+    <string name="btn_sem_nada">Aqui não sei o que colocar</string>
+    <string name="txt_checkbox">Salvar preferências</string>
+    <string name="txt_check_box">Lembrar E-mail</string>
+</resources>
